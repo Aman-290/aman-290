@@ -19,10 +19,9 @@ Final-year MCA student at **MIT Manipal** with interests in **mobile development
 
 ---
 
-### 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Aman-290" alt="GitHub Contribution Chart" />
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-290&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
