@@ -21,7 +21,6 @@ Final-year MCA student at **MIT Manipal** with interests in **mobile development
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-290&show_icons=true&theme=default&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-290&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
